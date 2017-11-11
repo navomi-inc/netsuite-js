@@ -1,7 +1,6 @@
-# netsuite-js 
-[![CircleCI](https://circleci.com/gh/Navomi-Jaden/netsuite-js/tree/master.svg?style=svg)](https://circleci.com/gh/Navomi-Jaden/netsuite-js/tree/master)
-[![Known Vulnerabilities](https://snyk.io/test/github/navomi-jaden/netsuite-js/badge.svg)](https://snyk.io/test/github/navomi-jaden/netsuite-js)
-[![codecov](https://codecov.io/gh/Navomi-Jaden/netsuite-js/branch/master/graph/badge.svg)](https://codecov.io/gh/Navomi-Jaden/netsuite-js)
+# netsuite-js
+[![CircleCI](https://img.shields.io/circleci/project/github/Navomi-Jaden/netsuite-js.svg?style=for-the-badge)](https://circleci.com/gh/Navomi-Jaden/netsuite-js)
+[![Codecov](https://img.shields.io/codecov/c/github/Navomi-Jaden/netsuite-js.svg?style=for-the-badge)](https://codecov.io/gh/Navomi-Jaden/netsuite-js)
 
 A Node wrapper for the NetSuite SOAP API.
 
