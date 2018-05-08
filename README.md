@@ -1,6 +1,6 @@
 # netsuite-js
 [![CircleCI](https://img.shields.io/circleci/project/github/navomi-inc/netsuite-js.svg?style=for-the-badge)](https://circleci.com/gh/navomi-inc/netsuite-js)
-[![Codecov](https://img.shields.io/codecov/c/github/Navomi-Jaden/netsuite-js.svg?style=for-the-badge)](https://codecov.io/gh/Navomi-Jaden/netsuite-js)
+[![Codecov](https://img.shields.io/codecov/c/github/navomi-inc/netsuite-js.svg?style=for-the-badge)](https://codecov.io/gh/navomi-inc/netsuite-js)
 
 A Node wrapper for the NetSuite SOAP API.
 
