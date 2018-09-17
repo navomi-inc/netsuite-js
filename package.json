@@ -27,6 +27,10 @@
 		"lodash": "^4.17.4",
 		"soap": "^0.23.0"
 	},
+	"resolutions": {
+    "soap/**/cryptiles": "^4.1.2",
+		"cryptiles": "^4.1.2"
+	},
 	"devDependencies": {
 		"async": "^2.6.0",
 		"codecov": "^3.0.0",
